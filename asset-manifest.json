@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/educa-clone/static/css/main.e6c13ad2.css",
+    "main.js": "/educa-clone/static/js/main.5efb3845.js",
+    "static/js/453.637ed94d.chunk.js": "/educa-clone/static/js/453.637ed94d.chunk.js",
+    "index.html": "/educa-clone/index.html",
+    "main.e6c13ad2.css.map": "/educa-clone/static/css/main.e6c13ad2.css.map",
+    "main.5efb3845.js.map": "/educa-clone/static/js/main.5efb3845.js.map",
+    "453.637ed94d.chunk.js.map": "/educa-clone/static/js/453.637ed94d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5efb3845.js"
+  ]
+}
